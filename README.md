@@ -25,5 +25,5 @@
 
 ### Передача зображення
 !(<img width="942" height="775" alt="image" src="https://github.com/user-attachments/assets/6f7d45df-8317-44cc-925e-21f8402d82ad" />)
-!(<img width="237" height="166" alt="image" src="https://github.com/user-attachments/assets/2d9c1971-159b-4d24-a4a7-8ab13190eacf" />)
+
 
